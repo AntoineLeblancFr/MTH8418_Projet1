@@ -1,4 +1,4 @@
-# Devoir 1
+# Projet 1
 import matplotlib.pyplot as plt
 import numpy as np
 
